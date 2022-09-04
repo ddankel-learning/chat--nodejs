@@ -1,4 +1,4 @@
-# Weather App
+# NodeJS Chatroom
 
 [View Demo](https://chat-dd.herokuapp.com/)
 
@@ -7,9 +7,7 @@ A simple chat app to explore the functionality of [Express](https://expressjs.co
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/ddankel/chat--nodejs
-   ```
+
 2. Install yarn packages
    ```sh
    yarn install
@@ -32,4 +30,4 @@ Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more infor
 
 ## Contact
 
-Project Link: [https://github.com/ddankel/chat--nodejs](https://github.com/ddankel/chat--nodejs)
+Project Link: [https://github.com/ddankel-learning/chat--nodejs](https://github.com/ddankel-learning/chat--nodejs)
